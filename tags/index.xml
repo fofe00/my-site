@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on fofe blogs</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://fofe00.github.io/my-site/tags/</link>
     <description>Recent content in Tags on fofe blogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 May 2024 18:29:59 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 May 2024 18:29:59 +0100</lastBuildDate><atom:link href="https://fofe00.github.io/my-site/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>fdfdf</title>
-      <link>http://localhost:1313/tags/fdfdf/</link>
+      <link>https://fofe00.github.io/my-site/tags/fdfdf/</link>
       <pubDate>Sun, 19 May 2024 18:29:59 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/fdfdf/</guid>
+      <guid>https://fofe00.github.io/my-site/tags/fdfdf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hsgdcgas</title>
-      <link>http://localhost:1313/tags/hsgdcgas/</link>
+      <link>https://fofe00.github.io/my-site/tags/hsgdcgas/</link>
       <pubDate>Sun, 19 May 2024 18:29:59 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/hsgdcgas/</guid>
+      <guid>https://fofe00.github.io/my-site/tags/hsgdcgas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>test</title>
-      <link>http://localhost:1313/tags/test/</link>
+      <link>https://fofe00.github.io/my-site/tags/test/</link>
       <pubDate>Sun, 19 May 2024 18:29:59 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/test/</guid>
+      <guid>https://fofe00.github.io/my-site/tags/test/</guid>
       <description></description>
     </item>
     
