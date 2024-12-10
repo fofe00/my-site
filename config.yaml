@@ -1,4 +1,4 @@
-baseURL: "https://fofe00.github.io/my-site"
+baseURL: "https://fofe00.github.io/my-site/"
 languageCode: "en-us"
 title: "fofe blogs"
 theme: hugo-profile
