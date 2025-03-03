@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Introduction on fofe blog</title>
+    <title>Introduction on fofe blogs</title>
     <link>https://fofe00.github.io/my-site/blogs/introduction/</link>
-    <description>Recent content in Introduction on fofe blog</description>
+    <description>Recent content in Introduction on fofe blogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 May 2024 18:29:59 +0100</lastBuildDate><atom:link href="https://fofe00.github.io/my-site/blogs/introduction/index.xml" rel="self" type="application/rss+xml" />
