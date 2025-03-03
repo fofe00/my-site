@@ -1,4 +1,4 @@
-baseURL: "https://fofe00.github.io/my-site/"
+baseURL: "https://fofe00.github.io/my-site"
 languageCode: "en-us"
 title: "fofe blogs"
 theme: hugo-profile
@@ -55,8 +55,8 @@ Menus:
 params:
   title: "Hugo Profile"
   description: Text about my cool site
-  # staticPath: ""  # The path to serve the static files from
-  favicon: "./fav.png"
+  staticPath: "static"  # The path to serve the static files from
+  favicon: "fav.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -127,7 +127,7 @@ params:
     title: "Blondeau fofe."
     subtitle: "I build things for the web"
     content: "A passionate Java developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-    image: ./images/profile.png
+    image: images/profile.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -153,7 +153,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "./images/me.png"
+    image: "images/me.png"
     content: |-
       I am a fullstack developer with 6 years of experience in building high-performance and innovative applications, specializing in Java Spring Boot and Angular. Passionate about modern technologies and cloud computing, I also have expertise in AWS services, which I leverage to design scalable and secure solutions.
 
@@ -312,7 +312,7 @@ params:
     items:
       - title: Fofe Blog
         content: Do you want to learn something new about java spring boot  & angular ? You are at the right place just learn an enjoy.
-        image: ./images/projects/profile.png
+        image: images/projects/profile.png
         featured:
           name: Demo
           link: https://hugo-profile.netlify.app
@@ -330,7 +330,7 @@ params:
 
       - title: Image Converter
         content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-        image: /images/projects/converter.jpg
+        image: images/projects/converter.jpg
         featured:
           name: Demo
           link: https://django-converter.herokuapp.com
@@ -343,7 +343,7 @@ params:
 
       - title: Hugo Profile V2
         content: A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
+        image: images/projects/profile2.jpg
         featured:
           name: Demo V2
           link: https://hugo-profile-2.netlify.app
