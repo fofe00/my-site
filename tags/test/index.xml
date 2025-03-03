@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>test on fofe blogs</title>
+    <title>test on fofe blog</title>
     <link>https://fofe00.github.io/my-site/tags/test/</link>
-    <description>Recent content in test on fofe blogs</description>
+    <description>Recent content in test on fofe blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 May 2024 18:29:59 +0100</lastBuildDate><atom:link href="https://fofe00.github.io/my-site/tags/test/index.xml" rel="self" type="application/rss+xml" />
